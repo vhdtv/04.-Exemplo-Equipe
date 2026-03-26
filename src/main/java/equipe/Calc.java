@@ -12,8 +12,7 @@ public class Calc {
     }
 
     // Pessoa C
-    public int multiplicacao(int a, int b) {
-        // TODO: implementar
-        return 0; 
-    }
+public int multiplicacao(int a, int b) { 
+    return a * b; 
+}
 }
