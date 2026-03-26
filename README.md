@@ -52,7 +52,7 @@ Saída esperada ao final (com tudo implementado):
 
 ## 👩‍💻 Status da Equipe
 
-**Linha da equipe (edite ESTA MESMA LINHA para criar conflito): Equipe = [Victor Henrique Dias, Lucas Ferreira, Paulo Victor]**
+**Linha da equipe (edite ESTA MESMA LINHA para criar conflito): Equipe = [Victor Henrique Dias, Lucas Ferreira Andrade, Paulo Victor]**
 
 ---
 
